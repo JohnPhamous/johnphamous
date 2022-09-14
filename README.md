@@ -1,3 +1,5 @@
+<meta content="https://nextjs.org/api/conf-share-vordle/JohnPhamous?date=20220914" property="og:image">
+
 <img width="1500" alt="Cover Image" src="https://user-images.githubusercontent.com/16027268/190267009-3d8c9f91-5426-4147-88cd-4d77eaeeb23c.png">
 
 ## ✨ Badges
